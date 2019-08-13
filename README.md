@@ -1,7 +1,6 @@
 [![npm version](https://badge.fury.io/js/homebridge-xiaomi-purifier.svg)](https://badge.fury.io/js/homebridge-xiaomi-purifier)
 
 # homebridge-xiaomi-purifier
-
 This project is forked from [homebridge-mi-air-purifier](https://github.com/seikan/homebridge-mi-air-purifier.git).
 
 This is Xiaomi Mi Air Purifier plugin for [Homebridge](https://github.com/nfarina/homebridge). This plugin will add the air purifier and **Air Quality Sensor** to your Home app. This version is working with iOS 11 to add the device as air purifier in Home app.
@@ -11,7 +10,6 @@ This is Xiaomi Mi Air Purifier plugin for [Homebridge](https://github.com/nfarin
 
 
 ### Features
-
 * Switch on / off.
 
 * Switch auto / manual mode.
@@ -35,7 +33,6 @@ This is Xiaomi Mi Air Purifier plugin for [Homebridge](https://github.com/nfarin
 
 
 ### Installation
-
 1. Install required packages.
 
 	```
@@ -103,6 +100,5 @@ This is Xiaomi Mi Air Purifier plugin for [Homebridge](https://github.com/nfarin
 
 
 
-### License
-
-See the [LICENSE](https://github.com/seikan/homebridge-mi-air-purifier/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+# License
+MIT License
