@@ -170,7 +170,7 @@ MiAirPurifier.prototype = {
 					capabilities=miio:buzzer, miio:led-brightness, miio:switchable-led, pm2.5, relative-humidity, temperature, switchable-mode, mode, switchable-power, restorable-state, power, state
 				}
 				*/
-				if (device.matches('type:air-purifier')) {
+				if (device.matches('miio:air-purifier')) {
 					that.device = device;
 
 					logger.debug('Discovered Mi Air Purifier (%s) at %s', device.miioModel, that.ip);
